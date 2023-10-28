@@ -1,4 +1,4 @@
-## Oiii! Eu sou o Carlos Eduardo 
+## Oi! Eu sou o Carlos Eduardo 
  <div>
   <a href="https://github.com/Carloscb124">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carloscb124&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
