@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">I code with, Learning Flutter, HTML, CSS, JAVASCRIPT, C#</h2>
+<h2 align="left">I code with, Learning Flutter, Html, Css, Javascript, C#</h2>
 
 ###
 
