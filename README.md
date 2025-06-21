@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning Front End, Flutter<br>🎯 Goals: Practice and apply knowledge in Front-End development, using HTML, CSS and JavaScript.</p>
+<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning Front End, Javar<br>🎯 Goals: Practice and apply knowledge in Front-End development, using HTML, CSS and JavaScript.</p>
 
 ###
 
-<h2 align="left">I code with, Learning Flutter, Html, Css, Javascript, C#</h2>
+<h2 align="left">I code with, Learning Java, Html, Css, Javascript, C#</h2>
 
 ###
 
