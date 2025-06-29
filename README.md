@@ -22,6 +22,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
+  <img src="https://github.com/github/copilot/assets/11121838/7cfb5d8d-174b-4f4c-8b3e-1ebc8d2cda4a" height="30" alt="GitHub Copilot logo" />
+  <img width="12" />
 </div>
 
 ###
