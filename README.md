@@ -1,8 +1,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=993399&height=120&section=header"/>
 
+<div align='center'>
+
 <div align="center">  
-<!--   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=eduard0vieira&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Eduardo Vieira github stats" />  -->
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carloscb124&layout=compact&hide_border=true&title_color=993399&text_color=00bfbf&bg_color=0d1117" />
+  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Carloscb124&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carloscb124&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
+  
 </div>
 
 <div align="center">  
