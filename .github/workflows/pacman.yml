@@ -26,16 +26,7 @@ jobs:
         with:
           github_user_name: 'Carloscb124' # Using your GitHub username directly
 
-      # Step 3: Create the dist directory and move the generated file into it
-      - name: Prepare deployment package
-        run: |
-          mkdir -p dist
-          cp pacman-contribution-graph.svg dist/
-          # Optional: List files to verify the structure
-          ls -la
-          ls -la dist/
-
-      # Step 4: Deploy the contents of the dist folder to the 'output' branch
+      # Step 3: Deploy the contents of the dist folder to the 'output' branch
       - name: Deploy to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
