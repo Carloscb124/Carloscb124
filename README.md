@@ -19,7 +19,7 @@
 <img src="https://skillicons.dev/icons?i=vscode,html,css,js,cs,ts,nodejs,react,java,git,github&theme=dark" />
 [![My Skills]
 
-(https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 
 #
 
