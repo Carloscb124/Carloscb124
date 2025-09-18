@@ -15,9 +15,9 @@
   <a href="mailto:cb473355@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail"/>
   </a>
-  <img src="cat-typing.gif" width="64"/>
 </div>
 
+ <img src="cat-typing.gif" width="64"/>
 
 ## &nbsp;My Stack
 
