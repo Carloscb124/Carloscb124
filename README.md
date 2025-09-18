@@ -8,7 +8,7 @@
   
 <div align="center">  
 	  <a href="https://www.instagram.com/car1os_124/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-	  <a href="https://www.linkedin.com/in/carloscb124/" target="_blank"><img src="https://skillicons.dev/icons?i=Gmail-Darkb&theme=dark"</a>
+	  <a href="https://www.linkedin.com/in/carloscb124/" target="_blank"><img src="https://skillicons.dev/icons?i=Gmail-Dark&theme=dark"</a>
 </div>
 		  <img src="cat-typing.gif" width="64"/>
 <div align="center">  
