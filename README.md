@@ -5,11 +5,10 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Carloscb124&show_icons=true&count_private=true&title_color=993399&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
   
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carloscb124&layout=compact&title_color=993399&text_color=fff&bg_color=0d1117&border_color=fff0" />
+
+ ## &nbsp;My Contacts
   
 <div align="center">  
-  <a href="https://www.instagram.com/car1os_124/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram"/>
-  </a>
   <a href="https://www.linkedin.com/in/carloscb124/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
@@ -18,9 +17,17 @@
   </a>
 </div>
 
+#
+
 ## &nbsp;My Stack
 
-<img src="https://skillicons.dev/icons?i=vscode,html,css,js,cs,ts,nodejs,react,java,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,cs,ts,nodejs,react,java&theme=dark" />
+
+#
+
+## &nbsp;My Tools
+
+<img src="https://skillicons.dev/icons?i=vscode,figma,git,github,wordpress&theme=dark" />
 
 #
 
