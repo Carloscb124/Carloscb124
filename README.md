@@ -20,14 +20,7 @@
 
 ## &nbsp;My Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,js,cs,ts,nodejs,react,java&theme=dark" />
-
-
-## &nbsp;My Tools
-
-<img src="https://skillicons.dev/icons?i=vscode,figma,git,github,wordpress&theme=dark" />
-
-
+<img src="https://skillicons.dev/icons?i=html,css,js,cs,ts,nodejs,react,java,vscode,figma,git,github,wordpress&theme=dark" />
 
 ###
 
