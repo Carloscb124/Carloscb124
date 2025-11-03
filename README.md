@@ -21,7 +21,7 @@
 
 ## &nbsp;My Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,js,cs,ts,nodejs,react,java,vscode,figma,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,cs,ts,nodejs,react,java,vscode,visualstudio,figma,git,github&theme=dark" />
 
 
 
