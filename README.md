@@ -2,28 +2,37 @@
 
 <div align='center'>
 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Carloscb124&show_icons=true&count_private=true&title_color=993399&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Carloscb124&show_icons=true&count_private=true&title_color=993399&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" />
   
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carloscb124&layout=compact&title_color=993399&text_color=fff&bg_color=0d1117&border_color=fff0" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carloscb124&layout=compact&title_color=993399&text_color=fff&bg_color=0d1117&border_color=fff0" /></div>
 
- ## &nbsp;My Contacts
-  
-<div align="center">  
-  <a href="https://www.linkedin.com/in/carloscb124/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin"/>
-  </a>
-  <a href="mailto:cb473355@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail"/>
-  </a>
-</div>
+# 🚀 Sobre mim
 
- <img src="cat-typing.gif" width="64"/>
-
-## &nbsp;My Stack
-
-<img src="https://skillicons.dev/icons?i=html,css,js,cs,ts,nodejs,react,java,vscode,visualstudio,figma,git,github&theme=dark" />
+👋 Me chamo Carlos Eduardo tenho 21 anos<br/>
+📚 Atualmente cursando **Tecnico em Informatica** no Senac<br/>
+💻 Estou Procurando uma vaga de estagiario 
 
 
+---
+
+## 🎨 **Front-end**
+[![Front Skills](https://skillicons.dev/icons?i=js,ts,react)](https://skillicons.dev)
+
+---
+
+## 🛠️ **Back-end**
+[![Back Skills](https://skillicons.dev/icons?i=nodejs,java,cs)](https://skillicons.dev)
+
+---
+
+### ⚙️ Ferramentas e Outras Skills
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,figma,git,github)](https://skillicons.dev)
+
+---
+
+📫 **Entre em contato comigo:**
+- 💼 [LinkedIn](https://www.linkedin.com/in/carloscb124/)
+- 📧 cb473355@gmail.com
 
 ###
 
@@ -36,9 +45,5 @@
 
 
 ###
-
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=993399&height=120&section=footer"/>
 </div>
-
-###
