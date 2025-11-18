@@ -17,7 +17,7 @@
 ---
 
 ## 🎨 **Front-end**
-[![Front Skills](https://skillicons.dev/icons?i=js,ts,react,bootstrap)](https://skillicons.dev)
+[![Front Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap)](https://skillicons.dev)
 
 ---
 
