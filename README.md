@@ -27,7 +27,7 @@
 ---
 
 ### ⚙️ Ferramentas e Outras Skills
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,figma,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,figma,wordpress,git,github)](https://skillicons.dev)
 
 ---
 
