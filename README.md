@@ -22,7 +22,7 @@
 ---
 
 ## 🛠️ **Back-end**
-[![Back Skills](https://skillicons.dev/icons?i=nodejs,java,cs)](https://skillicons.dev)
+[![Back Skills](https://skillicons.dev/icons?i=nodejs,java)](https://skillicons.dev)
 
 ---
 
