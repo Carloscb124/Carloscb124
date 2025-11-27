@@ -7,17 +7,18 @@
     &count_private=true
     &title_color=993399
     &icon_color=80F7D4
-    &text_color=c9d1d9
+    &text_color=E1E1E1
     &bg_color=0d1117
-    &border_color=0d1117" />
+    &border_color=993399
+    &ring_color=80F7D4" />
 
   <img width="41%" height="195px"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carloscb124
     &layout=compact
     &title_color=993399
-    &text_color=c9d1d9
+    &text_color=E1E1E1
     &bg_color=0d1117
-    &border_color=0d1117" />
+    &border_color=993399" />
 </div>
 
 # 🚀 Sobre mim
