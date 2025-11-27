@@ -17,12 +17,12 @@
 ---
 
 ## 🎨 **Front-end**
-[![Front Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap)](https://skillicons.dev)
+[![Front Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap)](https://skillicons.dev)
 
 ---
 
 ## 🛠️ **Back-end**
-[![Back Skills](https://skillicons.dev/icons?i=nodejs,java)](https://skillicons.dev)
+[![Back Skills](https://skillicons.dev/icons?i=nodejs,java,php)](https://skillicons.dev)
 
 ---
 
