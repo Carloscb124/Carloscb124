@@ -21,7 +21,7 @@
 ---
 
 ## 🛠️ **Back-end**
-[![Back Skills](https://skillicons.dev/icons?i=nodejs,py,php)](https://skillicons.dev)
+[![Back Skills](https://skillicons.dev/icons?i=nodejs,php)](https://skillicons.dev)
 
 ---
 
