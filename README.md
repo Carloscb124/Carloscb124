@@ -1,5 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=993399&height=120&section=header"/>
 
+<div img src="cat.jpg"> </div>
+
 # 🚀 Sobre mim
 
 👋 Me chamo Carlos Eduardo tenho 21 anos<br/>
