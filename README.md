@@ -7,7 +7,7 @@
 # 🚀 Sobre mim
 
 👋 Me chamo Carlos Eduardo tenho 21 anos<br/>
-📚 Atualmente cursando **Tecnico em Informatica** no Senac<br/>
+📚 Formado **Tecnico em Informatica** no Senac<br/>
 💻 Estou Procurando uma vaga de estagiario 
 
 
