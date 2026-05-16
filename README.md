@@ -1,6 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=993399&height=120&section=header"/>
 
-<div img src="cat.jpg"> </div>
+<div align="center">
+  <img src="cat.jpg" width="220px" style="border-radius: 15px;" />
+</div>
 
 # 🚀 Sobre mim
 
